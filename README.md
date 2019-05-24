@@ -10,8 +10,6 @@
 
 
 ### start
-`yarn`
-`node sck`
-
-
+ - `yarn`
+- `node sck`
 
